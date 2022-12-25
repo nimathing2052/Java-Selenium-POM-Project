@@ -1,0 +1,9 @@
+com\mystore\pageobject\OrderPage.class
+com\mystore\base\BaseClass.class
+com\mystore\pageobject\RegistrationPage.class
+com\mystore\pageobject\IndexPage.class
+com\mystore\pageobject\HomePage.class
+com\mystore\actiondriver\Action.class
+com\mystore\pageobject\LoginPage.class
+com\mystore\pageobject\SearchResultPage.class
+com\mystore\pageobject\AddToCartPage.class

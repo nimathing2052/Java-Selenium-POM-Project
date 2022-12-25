@@ -1,0 +1,7 @@
+com\mystore\testcases\RegistrationPageTest.class
+com\mystore\testcases\LoginPageTest.class
+com\mystore\testcases\SearchResultPageTest.class
+com\mystore\testcases\AddToCartPageTest.class
+com\mystore\testcases\HomePageTest.class
+com\mystore\testcases\OrderPageTest.class
+com\mystore\testcases\IndexPageTest.class
